@@ -11,8 +11,8 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/sashabaranov/go-openai"
-	"github.com/sashabaranov/go-openai/internal/test/checks"
+	"github.com/GzhuFlyer/go-openai"
+	"github.com/GzhuFlyer/go-openai/internal/test/checks"
 )
 
 func TestEmbedding(t *testing.T) {
